@@ -1,2 +1,2 @@
 # News-App
-News App using html, css and javascript
+News website using html, css and javascript
